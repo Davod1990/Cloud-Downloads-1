@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4676",
+  "folder": "YouTube__watch_20260514102925_ec6e9b",
+  "base_name": "Life_in_an_Iranian_Mountain_Village_Milking_Cows_Baking_Bread_oHFL9o7jWoE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Davod1990/Cloud-Downloads-1/releases/tag/co-releases-v1-4676",
+  "files": [
+    {
+      "name": "Life_in_an_Iranian_Mountain_Village_Milking_Cows_Baking_Bread_oHFL9o7jWoE_720p.mp4",
+      "url": "https://github.com/Davod1990/Cloud-Downloads-1/releases/download/co-releases-v1-4676/Life_in_an_Iranian_Mountain_Village_Milking_Cows_Baking_Bread_oHFL9o7jWoE_720p.mp4",
+      "api_url": "https://api.github.com/repos/Davod1990/Cloud-Downloads-1/releases/assets/420077212",
+      "id": 420077212,
+      "size": 263299525,
+      "download_count": 0
+    }
+  ]
+}
