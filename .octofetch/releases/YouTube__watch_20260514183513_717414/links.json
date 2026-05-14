@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2721",
+  "folder": "YouTube__watch_20260514183513_717414",
+  "base_name": "bbMyDFaqbrc_bbMyDFaqbrc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Davod1990/Cloud-Downloads-1/releases/tag/co-releases-v1-2721",
+  "files": [
+    {
+      "name": "bbMyDFaqbrc_bbMyDFaqbrc_720p.mp4",
+      "url": "https://github.com/Davod1990/Cloud-Downloads-1/releases/download/co-releases-v1-2721/bbMyDFaqbrc_bbMyDFaqbrc_720p.mp4",
+      "api_url": "https://api.github.com/repos/Davod1990/Cloud-Downloads-1/releases/assets/420376760",
+      "id": 420376760,
+      "size": 56407408,
+      "download_count": 0
+    }
+  ]
+}
