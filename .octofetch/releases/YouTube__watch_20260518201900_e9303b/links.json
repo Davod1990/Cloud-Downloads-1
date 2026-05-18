@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5165",
+  "folder": "YouTube__watch_20260518201900_e9303b",
+  "base_name": "SdcQIu3gkmw_SdcQIu3gkmw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Davod1990/Cloud-Downloads-1/releases/tag/co-releases-v1-5165",
+  "files": [
+    {
+      "name": "SdcQIu3gkmw_SdcQIu3gkmw_720p.mp4",
+      "url": "https://github.com/Davod1990/Cloud-Downloads-1/releases/download/co-releases-v1-5165/SdcQIu3gkmw_SdcQIu3gkmw_720p.mp4",
+      "api_url": "https://api.github.com/repos/Davod1990/Cloud-Downloads-1/releases/assets/423583466",
+      "id": 423583466,
+      "size": 237596432,
+      "download_count": 0
+    }
+  ]
+}
